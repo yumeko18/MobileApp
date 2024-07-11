@@ -1,0 +1,161 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+body {
+	font-size: 14px;
+	font-family: 'Poppins', sans-serif;
+	line-height: 1.80857;
+	font-weight: normal;
+	overflow-x: hidden;
+}
+/* header section start */
+.navbar{
+	display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 1vw 8vw;
+	font-size: 18px;
+}
+.header_section {
+	width: 100%;
+	background-image: url(../images/top-img.jpg);
+	height: 820px;
+	background-size: 100%;
+	background-repeat: no-repeat;
+	vertical-align:middle;
+	background-position: 50% 50%;
+	backgroung-size:100%;
+	background-size:cover;
+}
+h1 {
+	font-size: 48px;
+	color:#2A2A2A;
+	font-weight: 600;
+}
+h2{
+	font-size: 26px;
+	color:#2A2A2A;
+}
+h3{
+	font-size: 26px;
+	color:white;
+	font-weight: 600;
+}
+h4{
+	font-size: 36px;
+	color:white;
+	font-weight: 600;
+	padding-top:50px;
+}
+h5{
+	font-size: 18px;
+	color:#818181;
+	font-weight: 500;
+}
+.btn_main{
+	display: inline-block;
+    height: auto;
+    padding: 14px 30px;
+    background: black;
+    background-image: none !important;
+    color: white;
+    letter-spacing: 0.03em;
+    font-size: 13px;
+    line-height: 1;
+    text-transform: uppercase;
+    margin-top:15px;
+}
+a{
+	color:white;
+}
+i{
+	font-size: 14px;
+	color:#818181;
+}
+p{
+	color:white;
+	font-size: 18px;
+	padding-top:40px;
+}
+.tagline{
+	text-align:center;
+	margin-left:350px;
+	margin-top:150px;
+}
+.collection{
+	text-align:center;
+}
+.premium{
+	padding-top:100px;
+}
+.image1{
+	display: flex;
+    grid-gap: 2rem;
+    margin-top: 50px;
+    margin-left:460px;
+}
+.collection{
+	text-align:center;
+}
+.premium{
+	padding-top:100px;
+}
+.image2{
+	display:flex;
+    grid-gap: 2rem;
+    margin-top: 50px;
+    margin-left:460px;
+}
+.banner_img{
+	display:flex;
+}
+
+.collection2{
+	text-align:center;
+}
+.premium2{
+	padding-top:100px;
+}
+.image3{
+	display: flex;
+    margin-top: 50px;
+    width: 565px;
+    height: 363px;
+    padding-left: 100px;
+}
+.mid-img{
+    background-color: #c9cdcf;
+ 	padding-top:150px;
+}
+.mid{
+	   padding-top:200px;
+}
+.philosophy{
+	text-align:center;
+}
+.discount{
+	text-align:center;
+}
+.bot-img{
+    background-color: #c9cdcf;
+ 	padding-top:150px;
+}
+.bot{
+	padding-top:200px;
+}
+.bot-img{
+	padding-top: 70px;
+}
+.btn_main2{
+	display: inline-block;
+    height: auto;
+    padding: 12px 26px;
+    background: black;
+    background-image: none !important;
+    color: white;
+    letter-spacing: 0.03em;
+    font-size: 10px;
+    line-height: 1;
+    text-transform: uppercase;
+    margin-top:auto;
+}
+
